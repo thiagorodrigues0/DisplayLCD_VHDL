@@ -1,4 +1,4 @@
-Este código em VHDL implementa uma comunicação SPI e controle de um display LCD 320x240 pixels, com driver ILI9341. A comunicação SPI está configurada para um clock de 10 MHz.
+Este código em VHDL implementa uma comunicação SPI e controle de um display LCD 320x240 pixels, com driver ILI9341. A comunicação SPI de 10 MHz está configurada para um clock de entrada de 100 MHz, utilizando PLL.
 
 Este é um dos códigos para o Projeto de Integração de Cartão de Cartão SD e Display LCD utilizando um SoC FPGA. 
 

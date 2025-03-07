@@ -3,4 +3,4 @@ Este é um dos códigos para o Projeto de Integração de Cartão de Cartão SD 
 
 Para mais detalhes, acesse o documento do projeto em: https://drive.google.com/drive/folders/1R1kQIASA9__QIkGANy9Un1eSgFk6H-Ih?usp=sharing
 
-Para ver o tutorial de como reproduzir o projeto, acesso o vídeo em: Link em construção
+Para ver o tutorial de como reproduzir o projeto, acesse o vídeo em: Link em construção
